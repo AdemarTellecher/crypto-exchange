@@ -1,11 +1,11 @@
-# Crypto exchange from scratch
-Build your own crypto-exchange from scratch series
+# Exchange de criptomoedas do zero
+Série de construção do seu próprio exchange de criptomoedas do zero
 
-All LIVE recordings can be found on this my YouTube channel.
+Todas as gravações AO VIVO podem ser encontradas no meu canal do YouTube.
 
-We are building a complete working crypto exchange from a blank page.
-matching engine
-orderbooks
+Estamos construindo um exchange de criptomoedas completo e funcional a partir de uma página em branco.
+motor de correspondência
+livros de ordens
 frontend
 
-The main goal is to trade ERC20 tokens from our Ganache sandboxed environment.
+O objetivo principal é negociar tokens ERC20 do nosso ambiente sandbox Ganache.
